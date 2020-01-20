@@ -18,7 +18,7 @@ export default class App extends Component {
         // 定义state
         this.state = {
             // article: '<div>的空间巨大<i>就看得见啊</i></div>',
-            title: '代办事项列表1',
+            title: '代办事项列表',
             desc: '今日事，今日毕',
             // todos: [{
             //     id: 1,
